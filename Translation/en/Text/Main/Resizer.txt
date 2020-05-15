@@ -17,7 +17,7 @@ EditMode/Canvas/Wear/Wear Tabs=ChangeFontSizeByPercentage(0.8);
 EditMode/Canvas/File=ChangeFontSizeByPercentage(0.8);
 
 // Customizer UI- Top bar options
-EditMode/Canvas/Tabs=ChangeFontSizeByPercentage(0.55);
+EditMode/Canvas/Tabs=ChangeFontSizeByPercentage(0.6);
 
 // Customizer UI - Wear Types
 EditMode/Canvas/Wear/Wear Types=ChangeFontSizeByPercentage(0.8);
@@ -29,6 +29,8 @@ EditMode/Canvas/Face/Face Tabs/Toggle EyeBrow=ChangeFontSizeByPercentage(0.8);
 // H Scene UI
 Canvas/Badges=ChangeFontSizeByPercentage(0.45);
 Left Middle Canvas/LeftMiddleToggles=ChangeFontSizeByPercentage(0.8);
+Left Middle Canvas/LeftMiddleToggles/Wears/Hideable=IgnoreFontSize();
+Left Middle Canvas/LeftMiddleToggles/Styles/Hideable=IgnoreFontSize();
 
 // Debug ?
 DEBUG Canvas/Position=ChangeFontSizeByPercentage(0.9);
@@ -37,7 +39,7 @@ DEBUG Canvas/Position=ChangeFontSizeByPercentage(0.9);
 Canvas/Weakness/Button/Text=AutoResize(True);
 
 // H Scene Customizer UI
-EditMode(Clone)/Canvas/Tabs=ChangeFontSizeByPercentage(0.55);
+EditMode(Clone)/Canvas/Tabs=ChangeFontSizeByPercentage(0.6);
 EditMode(Clone)/Canvas/Hair=ChangeFontSizeByPercentage(0.8);
 EditMode(Clone)/Canvas/Face=ChangeFontSizeByPercentage(0.8);
 EditMode(Clone)/Canvas/Body=ChangeFontSizeByPercentage(0.8);
