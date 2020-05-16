@@ -30,12 +30,14 @@ EditMode/Canvas/Face/Face Tabs/Toggle EyeBrow=ChangeFontSizeByPercentage(0.8);
 Canvas/Badges=ChangeFontSizeByPercentage(0.45);
 Left Middle Canvas/LeftMiddleToggles=ChangeFontSizeByPercentage(0.8);
 Left Middle Canvas/LeftMiddleToggles/Wears/Hideable=IgnoreFontSize();
-Left Middle Canvas/LeftMiddleToggles/Styles/Hideable=IgnoreFontSize();
 
 // Debug ?
 DEBUG Canvas/Position=ChangeFontSizeByPercentage(0.9);
 
-//Exhaustion Recover button
+// H Action buttons (cum outside,creampie...)
+Canvas/ActButtons=ChangeFontSizeByPercentage(0.7);
+
+// Exhaustion Recover button
 Canvas/Weakness/Button/Text=AutoResize(True);
 
 // H Scene Customizer UI
